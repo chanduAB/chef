@@ -1,0 +1,13 @@
+{
+ "id":"user2",
+"comment":"user2@cloudthat.in",
+"home":"/home/user2",
+"groups":[
+"ops"
+],
+"shell":"/bin/bash",
+"ssh_keys":[
+"ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDO8PJdZMs+HFdlkctv53RPA/fyF30mGau3J23jzlL/H99W+EItNPBBmCDol2YesEEmeXdTs60mPT/knsrw/i8dzUBE5qzureLhpij7l9dmtsI7VBeGavV40CwoUYMp14hPCNkMw4IsIRApaKQPrIcUeqdNO/t2bizvxpXaAIr4dSai4CSxkz2KpL+ww4RKYqpx9tkqgwPZD2PiyMo10DqK/WzsE2kwXpLJXpB6O8X8oZQQWnlf+syhe8BxkCJLvBTNk7HYnPvgtuA+lR5WtAmVfouN4ooSxrbccprTIOXhlvk8BXMJX6UAixvG9F7u7D/se96xSV14bnaUoXnE416D root@ip-10-0-0-21"
+]
+
+}

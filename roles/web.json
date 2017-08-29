@@ -1,0 +1,10 @@
+{
+  "name": "web",
+  "description": "Basic server for deploying java application onto",
+  "default_attributes": {
+
+  },
+  "run_list": [
+    "recipe[ct-apache]"
+  ]
+}
